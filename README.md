@@ -12,5 +12,6 @@ yarn dev
 
 //DOCUMENTATION ABOUT SOKO app
 
-> Introduction
+// Introduction
+
 > This an Ecommerce platform for buying and selling products online
