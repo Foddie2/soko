@@ -1,4 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
+
+// Create a data Object here
+
 const data = {
   products: [
     {
