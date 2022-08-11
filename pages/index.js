@@ -7,9 +7,11 @@ export default function Home() {
     <Layout title="Home page ">
       Home page
       <div className="grid grid-cols-1 gap-4 md:grid-cols-3 lg:grid-cols-4">
-        {data.product.map((product) => (
-          <ProductItem product={product} key={product.slug}></ProductItem>
-        ))}
+        {data.product.map((product) => {
+          return (
+            <ProductItem product={product} key={product.slug}></ProductItem>
+          );
+        })}
       </div>
     </Layout>
   );
