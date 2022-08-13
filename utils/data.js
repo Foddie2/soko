@@ -71,7 +71,7 @@ const data = {
       category: 'Pants',
       image: '/images/pants3.jpg',
       price: 75,
-      brand: 'Casely',
+      brand: 'Casefy',
       rating: 2.4,
       numReviews: 14,
       countInStock: 20,
